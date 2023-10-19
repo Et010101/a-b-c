@@ -13,19 +13,18 @@ GROUPS = [{
     's1': 'Creative Writing',
     's2': 'Cooking',
     's3': 'Fitness & Wellness'
-},
- {
-   'id': 3,
- 'name': 'Support & Networking',
- 's1': 'Mental Health Support',
- 's2': 'LGBTQ Support',
- 's3': 'Women In Area'
- },
+}, {
+    'id': 3,
+    'name': 'Support & Networking',
+    's1': 'Mental Health Support',
+    's2': 'LGBTQ Support',
+    's3': 'Women In Area'
+}]
 #{ 'id': 4,
- # 'name': 'Miscellaneous',
- # 's1': 'Books Clubs',
- # 's2': 'Study Techniques',
- # 's3': 'Research Groups'}]
+# 'name': 'Miscellaneous',
+# 's1': 'Books Clubs',
+# 's2': 'Study Techniques',
+# 's3': 'Research Groups'}]
 
 
 @app.route("/")

@@ -21,11 +21,11 @@ GROUPS = [{
  's2': 'LGBTQ Support',
  's3': 'Women In Area'
  },
-{ 'id': 4,
-  'name': 'Miscellaneous',
-  's1': 'Books Clubs',
-  's2': 'Study Techniques',
-  's3': 'Research Groups'}]
+#{ 'id': 4,
+ # 'name': 'Miscellaneous',
+ # 's1': 'Books Clubs',
+ # 's2': 'Study Techniques',
+ # 's3': 'Research Groups'}]
 
 
 @app.route("/")
